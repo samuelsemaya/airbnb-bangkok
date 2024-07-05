@@ -10,8 +10,8 @@ Airbnb began operating in Bangkok a few years after its founding. As the popular
 (Reference: [Airbnb](https://www.airbnb.com/bangkok-thailand/stays))
 # Problems Hypotesis
 ---
-<div style="text-align: center;">
-    <img src='https://github.com/samuelsemaya/airbnb-bangkok/blob/main/airbnb%20bangkok/2025_SEA_Games_logo.png' alt='SEA Games 2025 Logo' style='width:200px; height:300px;'>
+<div align="center">
+  <img src="https://github.com/samuelsemaya/airbnb-bangkok/blob/main/airbnb%20bangkok/2025_SEA_Games_logo.png" alt="SEA Games 2025 Logo" style="width:200px; height:300px;">
 </div>
 
 In 2025, a major event will be held in Thailand, the SEA Games Thailand 2025, which will take place from December 9, 2025, to December 20, 2025. The event will be participated in by 11 Southeast Asian countries, with Bangkok being one of the host cities.  
