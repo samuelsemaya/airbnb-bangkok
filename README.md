@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/samuelsemaya/airbnb-bangkok/blob/main/airbnb%20bangkok/airbnb.gif" alt="Airbnb Gif" style="width:1000px; height:500px">
+  <img src="https://github.com/samuelsemaya/airbnb-bangkok/blob/main/airbnb%20bangkok/airbnb.gif" alt="Airbnb Gif" style="width:800px; height:500px">
 </div>
 
 # Background and History of Airbnb in Bangkok
