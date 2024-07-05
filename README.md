@@ -36,3 +36,4 @@ We will try to answer the following questions:
 
 <div class="alert alert-block alert-info"><span style="color:black">
 <b>What can hosts, the local government, and the Airbnb Thailand team do for domestic and international tourists to enhance the excitement of the SEA Games Thailand 2025 event?</b></div></span>
+
